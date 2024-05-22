@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Centrar{
+    text-align: center;
+    align-items: center;
+}
+
+.Titulo{
+    font-size: 70px;
+    background-color: aqua;
+}
+
+img{
+    max-width: 300px;
+}
+
+#ElImperio{
+    background-color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    color: chartreuse;
+}
+
+#LosRebeldes{
+    background-color: aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    
+    color:darkblue;
+}
